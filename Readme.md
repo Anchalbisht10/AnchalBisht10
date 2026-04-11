@@ -44,9 +44,9 @@ Git, GitHub, Postman, VS Code
 
 ---
 
-###Portfolio
-![Portfolio](https://portfolio-3-d-u19m.vercel.app)
-
+### Portfolio
+[Portfolio](https://portfolio-3-d-u19m.vercel.app)
+---
 ## 🎓 Experience & Certifications  
 
 - Full Stack Developer Training – SSC  
