@@ -59,7 +59,7 @@ Git, GitHub, Postman, VS Code
 ## 📫 Connect with Me  
 
 📧 Email: anchal001bisht@gmail.com  
-🔗 LinkedIn: [Add Link]  
+🔗 LinkedIn: [https://www.linkedin.com/in/anchal-bisht-39327b302]  
 
 ---
 
